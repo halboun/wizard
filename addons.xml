@@ -29,7 +29,7 @@
 <addon id="repository.acrosstheglobe" name="All Addons by Mash" version="1.9" provider-name="Mash">
 	<extension point="xbmc.addon.repository" name="Addons from Mash">
 		<info compressed="false">https://github.com/halboun/wizard/blob/master/addons.xml</info>
-		<datadir zip="true">https://github.com/halboun/wizard/blob/master/zips/</datadir>
+		<datadir zip="true">https://github.com/halboun/wizard/blob/master/zips</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Repo for Mash Up and More</summary>
